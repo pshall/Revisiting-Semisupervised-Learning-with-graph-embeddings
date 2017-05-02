@@ -62,5 +62,5 @@ with the same order as in “tx”.
 Hyper-parameters are tuned by randomly shuffle the training/test split (i.e., randomly shuffling the indices in "x", "y", "tx", "ty", and "graph").We tune the hyper-parameters on one of the ten runs, and then keep the same hyper-parameters for all the ten runs. 
 
 
-5. Results are added as screenshots in result subfolder.
+5. The screenshots of running code is present result subfolder.
    Accuracy : We are getting  0.63-0.67  which is slightly less than stated in paper.
